@@ -100,7 +100,9 @@ x y z Vset r type
 \
 **STEP 3**\
 At this point you can add the zinc coordinates to the *ligand_dock.bpf* file along with any other bias positions.
-## Citations
-If you found Zinc Package useful in your own research please cite:
+## Citation
+If you find Zinc Package useful in your own research please cite:
 
-[ARTICLE REFERENCE]
+**Enhancing HDAC Inhibitor Screening: Addressing Zinc Parameterization and Ligand Protonation in Docking Studies**
+Rocco Buccheri, Alessandro Coco, Lorella Pasquinucci, Emanuele Amata, Agostino Marrazzo and Antonio Rescifina. *Int. J. Mol. Sci.* **2025**, 26(2), 850\
+[doi](https://doi.org/10.3390/ijms26020850): https://doi.org/10.3390/ijms26020850
